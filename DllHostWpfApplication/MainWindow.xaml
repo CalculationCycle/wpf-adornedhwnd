@@ -63,7 +63,7 @@
             <ah:AdornedHwndHost x:Name="AdornedHwndHost4" Grid.Column="1" Grid.Row="1" Margin="6,6,6,6" HostChildWin="True" GuiWinWSChild="True">
                 <Button x:Name="Button_ahh4" Width="70" Height="24" Content="Click_ahh4" Margin="0,-40,0,0" Click="Button_ahhX_Click" />
                 <Slider x:Name="Slider_ahh4" Width="200" Height="24" Margin="0,30,0,0" Minimum="0" Maximum="20" Value="8" SmallChange="1" />
-                <TextBox x:Name="TextBox_ahh4" Text="textahh4" Width="85" Height="24" Margin="0,85,0,0" GotKeyboardFocus="TextBox_ahh4_GotKeyboardFocus" PreviewGotKeyboardFocus="TextBox_ahh4_PreviewGotKeyboardFocus" />
+                <TextBox x:Name="TextBox_ahh4" Text="textahh4" Width="85" Height="24" Margin="0,85,0,0" />
             </ah:AdornedHwndHost>
         </Grid>
     </Grid>
