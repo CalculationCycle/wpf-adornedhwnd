@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\dawi\documents\visual studio 2015\projects\cppwin32childwindow\cppwin32childwindow\source.cpp(284): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+     Creating library C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\CppWin32ChildWindow.lib and object C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\CppWin32ChildWindow.exp
+  CppWin32ChildWindow.vcxproj -> C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\CppWin32ChildWindow.dll
+  CppWin32ChildWindow.vcxproj -> C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\CppWin32ChildWindow.pdb (Full PDB)

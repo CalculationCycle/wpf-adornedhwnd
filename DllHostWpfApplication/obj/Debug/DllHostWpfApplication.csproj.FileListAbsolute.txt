@@ -1,0 +1,15 @@
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\DllHostWpfApplication.exe.config
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\DllHostWpfApplication.exe
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\Debug\DllHostWpfApplication.pdb
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\App.g.cs
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication_MarkupCompile.cache
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication_MarkupCompile.lref
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\MainWindow.baml
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.g.resources
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.Properties.Resources.resources
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.csproj.GenerateResource.Cache
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.exe
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.pdb
+C:\Users\dawi\Documents\Visual Studio 2015\Projects\CppWin32ChildWindow\DllHostWpfApplication\obj\Debug\DllHostWpfApplication.csprojResolveAssemblyReference.cache
